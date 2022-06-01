@@ -1,0 +1,27 @@
+3
+Peter;Project1:1000;Project2:500
+Bob;Project3:500
+Mark;Project4:5000
+
+//app test
+package ex.sds;
+
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest 
+{
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+}
+
